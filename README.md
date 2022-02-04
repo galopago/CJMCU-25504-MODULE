@@ -67,3 +67,14 @@ OVERTEMPERATURE
 | OT_PROG 60  |  R12   | 0    |   0 M |
 | OT_PROG 120 |  R11   | N/A  |   N/A |
 
+
+Con estos valores de resistores se obtiene la siguiente configuracion:
+
+VBAT_OV      = 3.15V
+VBAT_UV      = 2.20V
+VBAT_OK      = 2.44V
+VBAT_OK_HYST = 2.80V
+MPP          = 78%
+OVERTEMP     = 60 C
+
+Esta configuracion usa como entrada una celda solar y como elemento de almacenamiento 2 baterias NiMh de 1.25V recargables en serie.
