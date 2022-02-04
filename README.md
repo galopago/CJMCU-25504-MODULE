@@ -33,3 +33,11 @@ VOLTAGE OK
 | ROK2  |  R9    | 61E  | 4.22 M |
 | ROK1  |  R8    | 63E  | 4.42 M |
 | ROK1a |  R16   | 0    |    0 M |
+
+OVERTEMPERATURE
+
+| TI ID       | PCB ID | MARK | VALUE |
+|-------------|--------|------|-------|
+| OT_PROG 60  |  R12   | 0    |   0 M |
+| OT_PROG 120 |  R11   | N/A  |   N/A |
+
