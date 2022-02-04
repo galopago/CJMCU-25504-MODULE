@@ -24,7 +24,7 @@ El siguiente grafico muestra visualmente cada uno de los conectores con el nombr
 Algo curioso en este modulo, es que el fabricante decidio no conectar directamente el divisor de voltaje formado por ROC1 y ROC2 al pin VOC_SAMP, sino que enruto el punto medio del divisor y el pin VOC_SAMP hacia el conector header, de forma tal que se puede optar por configurar el MPPT o deshabilitarlo mediante conexiones externas.
 
 ## Valores de los resistores del modulo
-En las siguientes tablas se expone los valores que tiene el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
+En las siguientes tablas se expone los valores que trae el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
 
 ### MPPT
 
