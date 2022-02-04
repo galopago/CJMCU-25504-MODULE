@@ -6,7 +6,7 @@ Este documento pretende presentar las equivalencias entre las etiquetas usadas p
 
 ## El modulo en cuestion
 
-La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias visibles al fabricante
+La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias visibles al fabricante. La serigrafia de los componentes es dificil de leer.
 
 ![MODULE](/assets/img/CJMCU-25504-MODULE.png)
 
@@ -15,6 +15,11 @@ La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias
 El siguiente grafico muestra visualmente cada uno de los resistores, con el nombre de la etiqueta como la usa el fabricante, y con el nombre de la etiqueta que uso el fabricante del modulo.
 
 ![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
+
+## Mapa de conectores
+El siguiente grafico muestra visualmente cada uno de los conector, con el nombre de la etiqueta como la usa el fabricante, y con el nombre de la etiqueta que uso el fabricante del modulo. 
+
+![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
 MPPT
 
