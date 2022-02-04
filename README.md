@@ -10,6 +10,12 @@ La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias
 
 ![MODULE](/assets/img/CJMCU-25504-MODULE.png)
 
+## Mapa de resistores
+
+El siguiente grafico muestra visualmente cada uno de los resistores, con el nombre de la etiqueta como la usa el fabricante, y con el nombre de la etiqueta que uso el fabricante del modulo.
+
+![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
+
 MPPT
 
 | TI ID | PCB ID | MARK | VALUE  |
