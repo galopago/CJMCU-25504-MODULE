@@ -26,7 +26,7 @@ Algo curioso en este modulo, es que el fabricante decidio no conectar directamen
 ## Valores de los resistores del modulo
 En las siguientes tablas se expone los valores que tiene el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
 
-MPPT
+### MPPT
 
 | TI ID | PCB ID | MARK | VALUE  |
 |-------|--------|------|--------|
@@ -34,8 +34,7 @@ MPPT
 | ROC1  |  R10   | 565  | 5.60 M |
 | ROC1a |  R1    | 106  | 10.0 M |
 
-
-OVERVOLTAGE
+### OVERVOLTAGE
 
 | TI ID | PCB ID | MARK | VALUE  |
 |-------|--------|------|--------|
@@ -43,7 +42,7 @@ OVERVOLTAGE
 | ROV1  |  R3    | 75E  | 5.90 M |
 | ROV1a |  R14   | 0    |    0 M |
 
-UNDERVOLTAGE
+### UNDERVOLTAGE
 
 | TI ID | PCB ID | MARK | VALUE  |
 |-------|--------|------|--------|
@@ -51,7 +50,7 @@ UNDERVOLTAGE
 | RUV1  |  R5    | 565  | 5.60 M |
 | RUV1a |  R15   | 0    |    0 M |
 
-VOLTAGE OK
+### VOLTAGE OK
 
 | TI ID | PCB ID | MARK | VALUE  |
 |-------|--------|------|--------|
@@ -60,7 +59,7 @@ VOLTAGE OK
 | ROK1  |  R8    | 63E  | 4.42 M |
 | ROK1a |  R16   | 0    |    0 M |
 
-OVERTEMPERATURE
+### OVERTEMPERATURE
 
 | TI ID       | PCB ID | MARK | VALUE |
 |-------------|--------|------|-------|
@@ -68,7 +67,8 @@ OVERTEMPERATURE
 | OT_PROG 120 |  R11   | N/A  |   N/A |
 
 
-Con estos valores de resistores se obtiene la siguiente configuracion:
+
+Con los anteriores valores de resistores se obtiene la siguiente configuracion:
 
 | PARAMETER      | VALUE |
 |----------------|-------|
