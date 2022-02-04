@@ -17,7 +17,7 @@ El siguiente grafico muestra visualmente cada uno de los resistores, con el nomb
 ![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
 
 ## Mapa de conectores
-El siguiente grafico muestra visualmente cada uno de los conector, con el nombre de la etiqueta como la usa el fabricante, y con el nombre de la etiqueta que uso el fabricante del modulo. 
+El siguiente grafico muestra visualmente cada uno de los conectores con el nombre de la etiqueta que empleo el fabricante del integrado. 
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
