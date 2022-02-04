@@ -80,4 +80,4 @@ Con los anteriores valores de resistores se obtiene la siguiente configuracion:
 | OVERTEMP       | 60 C  |
 
 
-Esta configuracion usa como entrada una celda solar y como elemento de almacenamiento 2 baterias NiMh de 1.25V recargables en serie.
+Esta configuracion usa como entrada una celda solar y como elemento de almacenamiento 2 baterias recargables tipo NiMh de 1.25V  en serie.
