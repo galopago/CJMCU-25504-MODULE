@@ -21,7 +21,10 @@ El siguiente grafico muestra visualmente cada uno de los conector, con el nombre
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
-Algo curioso en este modulo, es que el fabricante decidio no conectar directamente el divisor de voltaje que configura el MPPT al pin VOC_SAMP, sino que tanto el punto medio del divisor, como el pin VOC_SAMP se encuentran en el header, de forma tal que se puede optar por configurar el MPPT o deshabilitarlo mediante un puente.
+Algo curioso en este modulo, es que el fabricante decidio no conectar directamente el divisor de voltaje formado por ROC1 y ROC2 el cual configura el valor de MPPT al pin VOC_SAMP, sino que tanto el punto medio del divisor, como el pin VOC_SAMP se encuentran en el header, de forma tal que se puede optar por configurar el MPPT o deshabilitarlo mediante conexiones externas.
+
+## Valores de los resistores del modulo
+En las siguientes tablas se expone los valores que tiene el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
 
 MPPT
 
