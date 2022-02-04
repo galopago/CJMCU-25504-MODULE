@@ -1,4 +1,13 @@
-# CJMCU-25504-MODULE
+# AYUDA PARA MODULO CJMCU-25504
+
+El modulo CJMCU-25504 basado en el circuito integrado de cosechamiento de energia BQ25504, tiene incorporados todos los componentes externos necesarios para usarlo. La configuracion de los diferentes parametros de este integrado se realiza mediante resistores, sinembargo la serigrafia no es clara, lo que hace dificil identificuar cual componente es cual. Adicional a esto, el fabricante del modulo usa unas etiquetas diferentes a las que usa el fabricante del integrado lo cual aumenta mas la confusion.
+
+Este documento pretende presentar las equivalencias entre las etiquetas usadas por el fabricante del modulo tanto en el esquematico como en el pcb, con las expuestas por el fabricante del integrado en su hoja de datos. De esta forma sera mucho mas facil realizar cambios a los componentes para ajustarlo a nuestras propias necesidades
+
+## El modulo en cuestion
+
+La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias visibles al fabricante
+![MODULE](../img/CJMCU-25504-MODULE.png)
 
 MPPT
 
