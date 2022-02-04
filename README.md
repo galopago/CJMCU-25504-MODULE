@@ -7,7 +7,7 @@ Este documento pretende presentar las equivalencias entre las etiquetas usadas p
 ## El modulo en cuestion
 
 La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias visibles al fabricante
-![MODULE](../img/CJMCU-25504-MODULE.png)
+![MODULE](/img/CJMCU-25504-MODULE.png)
 
 MPPT
 
