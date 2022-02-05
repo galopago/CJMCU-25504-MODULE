@@ -18,8 +18,9 @@ The following image presents visually each resistor with both labels: IC manufac
 
 ![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
 
-## Mapa de conectores
-El siguiente grafico muestra visualmente cada uno de los conectores con el nombre de la etiqueta que empleo el fabricante del integrado. 
+## Pinout
+
+The following image presents visually each header pin with IC manufacturer label
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
