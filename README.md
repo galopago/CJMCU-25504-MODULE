@@ -20,7 +20,7 @@ The following image presents visually each resistor with both labels: IC manufac
 
 ## Pinout
 
-The following image presents visually each header pin with a label exactly as in the IC manufacturer datasheet.
+The following image presents visually each header pin with a label exactly written as in the IC manufacturer datasheet.
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
