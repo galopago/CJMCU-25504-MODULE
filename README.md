@@ -8,19 +8,19 @@ This document shows the equivalence between labels written in the module [schema
 
 ## The module in question
 
-The only visible marking on the PCB is CJMCU-25504, there are no references to the manufacturer. Silkscreens are unreadable
+The only visible marking on the PCB is CJMCU-25504, there are no references to the manufacturer. Silkscreens are unreadable.
 
 ![MODULE](/assets/img/CJMCU-25504-MODULE.png)
 
 ## Resistor map
 
-The following image presents visually each resistor with both labels: IC manufacturer and module manufacturer
+The following image presents visually each resistor with both labels: IC manufacturer and module manufacturer.
 
 ![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
 
 ## Pinout
 
-The following image presents visually each header pin with IC manufacturer label
+The following image presents visually each header pin with a label exactly as in the IC manufacturer datasheet.
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
