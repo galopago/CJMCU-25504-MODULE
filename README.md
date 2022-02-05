@@ -28,7 +28,7 @@ In this module the voltage divider made of ROC1 and ROC2 is not connected to VOC
 
 ## Module resistor values
 
-The following thables shows the values of the resistors that came populated in to the PCB. Those values are exactly the same found in the IC datasheet design example.
+The following tables show the values of the resistors that came soldered into the PCB. Those values are exactly the same found in the IC sample design pdf.
 
 ### MPPT
 
