@@ -27,7 +27,8 @@ The following image presents visually each header pin with a label exactly writt
 In this module the voltage divider made of ROC1 and ROC2 is not connected to VOC_SAMP pin. Instead the middle point of the divider and VOC_SAMP signals are routed to header pins. MPPT could be enabled or disabled externally.
 
 ## Module resistor values
-En las siguientes tablas se expone los valores que trae el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
+
+The following thables shows the values of the resistors that came populated in to the PCB. Those values are exactly the same found in the IC datasheet design example.
 
 ### MPPT
 
