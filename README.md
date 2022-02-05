@@ -71,8 +71,8 @@ The following tables show the values of the resistors that came soldered into th
 | OT_PROG 120 |  R11   | N/A  |   N/A |
 
 
+Here are the configuration parameters obtained with the aforementioned resistor values:
 
-Con los anteriores valores de resistores se obtiene la siguiente configuracion:
 
 | PARAMETER      | VALUE |
 |----------------|-------|
@@ -83,5 +83,5 @@ Con los anteriores valores de resistores se obtiene la siguiente configuracion:
 | MPP            | 78 %  |
 | OVERTEMP       | 60 C  |
 
+This configuration uses a solar cell as input and 2x 1.25V NiMH rechargeable batteries in series as a storage device
 
-Esta configuracion usa como entrada una celda solar y como elemento de almacenamiento 2 baterias recargables tipo NiMH de 1.25V  en serie.
