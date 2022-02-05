@@ -1,8 +1,12 @@
 # CJMCU-25504 MODULE HELPER
 
-El modulo CJMCU-25504 basado en el circuito integrado para cosecha de energia BQ25504, tiene incorporados todos los componentes externos necesarios para usarlo. La configuracion de los diferentes parametros de este integrado se realiza mediante resistores, sin embargo, la serigrafia no es clara, lo que hace dificil identificar los componentes. Adicional a esto, el fabricante del modulo emplea unas etiquetas diferentes a las que usa el fabricante del integrado lo cual aumenta mas la confusion.
+CJMCU-25504 module based on BQ25504 energy harvesting chip, have built-in all external components needed for immediate use. Parameter setup is done using resistors, however, resistors silkscreen characters are unreadable and output pins labels are not exactly written as in the IC datasheet.
 
 Read this in other languages: [Español](/assets/markdown/README.es.md)
+
+El modulo CJMCU-25504 basado en el circuito integrado para cosecha de energia BQ25504, tiene incorporados todos los componentes externos necesarios para usarlo. La configuracion de los diferentes parametros de este integrado se realiza mediante resistores, sin embargo, la serigrafia no es clara, lo que hace dificil identificar los componentes. Adicional a esto, el fabricante del modulo emplea unas etiquetas diferentes a las que usa el fabricante del integrado lo cual aumenta mas la confusion.
+
+
 
 
 Este documento pretende presentar las equivalencias entre las etiquetas utilizadas por el fabricante del modulo en el [esquematico](/assets/pdf/CJMCU-25504-SCHEMATIC.pdf) y circuito impreso, con las expuestas por el fabricante del integrado en su [hoja de datos](/assets/pdf/bq25504.pdf). De esta forma sera mucho mas facil realizar cambios a los componentes para ajustarlo a nuestras propias necesidades
