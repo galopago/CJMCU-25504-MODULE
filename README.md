@@ -4,13 +4,11 @@ CJMCU-25504 module based on BQ25504 energy harvesting chip, have built-in all ex
 
 Read this in other languages: [Español](/assets/markdown/README.es.md)
 
-This documents shows the equivalence between labels written in the module [schematic](/assets/pdf/CJMCU-25504-SCHEMATIC.pdf) and in the IC [datasheet](/assets/pdf/bq25504.pdf).
+This document shows the equivalence between labels written in the module [schematic](/assets/pdf/CJMCU-25504-SCHEMATIC.pdf) and in the IC [datasheet](/assets/pdf/bq25504.pdf).
 
-Este documento pretende presentar las equivalencias entre las etiquetas utilizadas por el fabricante del modulo en el [esquematico](/assets/pdf/CJMCU-25504-SCHEMATIC.pdf) y circuito impreso, con las expuestas por el fabricante del integrado en su [hoja de datos](/assets/pdf/bq25504.pdf). De esta forma sera mucho mas facil realizar cambios a los componentes para ajustarlo a nuestras propias necesidades
+## The module in question
 
-## El modulo en cuestion
-
-La unica marca visible en el circuito impreso es CJMCU-25504, no hay referencias visibles al fabricante. La serigrafia de los componentes es dificil de leer.
+The only visible marking in the PCB is CJMCU-25504, there are no references to the manufacturer. Silkscreens are unreadable
 
 ![MODULE](/assets/img/CJMCU-25504-MODULE.png)
 
