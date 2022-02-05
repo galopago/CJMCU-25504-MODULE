@@ -8,13 +8,13 @@ This document shows the equivalence between labels written in the module [schema
 
 ## The module in question
 
-The only visible marking in the PCB is CJMCU-25504, there are no references to the manufacturer. Silkscreens are unreadable
+The only visible marking on the PCB is CJMCU-25504, there are no references to the manufacturer. Silkscreens are unreadable
 
 ![MODULE](/assets/img/CJMCU-25504-MODULE.png)
 
-## Mapa de resistores
+## Resistor map
 
-El siguiente grafico muestra visualmente cada uno de los resistores, con el nombre de la etiqueta como la usa el fabricante, y con el nombre de la etiqueta que empleo el fabricante del modulo.
+The following image presents visually each resistor with both labels: IC manufacturer and module manufacturer
 
 ![MODULE](/assets/img/CJMCU-25504-RESISTORS.svg)
 
