@@ -24,9 +24,9 @@ The following image presents visually each header pin with a label exactly writt
 
 ![MODULE](/assets/img/CJMCU-25504-PINOUT.svg)
 
-Algo curioso en este modulo, es que el fabricante decidio no conectar directamente el divisor de voltaje formado por ROC1 y ROC2 al pin VOC_SAMP, sino que enruto el punto medio del divisor y el pin VOC_SAMP hacia el conector header, de forma tal que se puede optar por configurar el MPPT o deshabilitarlo mediante conexiones externas.
+In this module the voltaje divider made of ROC1 and ROC2 are not connected to VOC_SAMP pin. Instead the middle point of the divider and VOC_SAMP signals are routed to header pins. MPPT could be enabled or disabled externally.
 
-## Valores de los resistores del modulo
+## Module resistor values
 En las siguientes tablas se expone los valores que trae el modulo de fabrica. Estos valores coinciden exactamente con los del ejemplo presentado en la hoja de datos del componente. 
 
 ### MPPT
