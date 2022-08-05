@@ -1,8 +1,10 @@
 # CJMCU-25504 MODULE HELPER
 
+Repo moved to [electronic modules helper](https://github.com/galopago/electronic-modules-helper)
+
 CJMCU-25504 module based on BQ25504 energy harvesting chip, have built-in all external components needed for immediate use. Parameter setup is done using resistors, however, resistors silkscreen characters are unreadable and output pin labels are not exactly written as in the IC datasheet.
 
-Read this in other languages: [Español](/assets/markdown/README.es.md)
+Read this in other languages: https://github.com/galopago/electronic-modules-helper(/assets/markdown/README.es.md)
 
 This document shows the equivalence between labels written in the module [schematic](/assets/pdf/CJMCU-25504-SCHEMATIC.pdf) and in the IC [datasheet](/assets/pdf/bq25504.pdf).
 
